@@ -1,0 +1,7 @@
+[package]
+name = "operators"
+version = "0.1.0"
+authors = ["dmdv <dimos-d@yandex.ru>"]
+edition = "2018"
+
+[dependencies]
